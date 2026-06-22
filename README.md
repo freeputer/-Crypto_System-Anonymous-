@@ -1,2 +1,12 @@
 # -Crypto_System-Anonymous-
-An anonymous cryptocurrency registration, inquiry, and trading system.
+Using Way:
+npm install
+npm start
+Then you can use it
+
+This project requires your sponsorship. The ERC20 donation address is:
+TRVfny686RZXBvVECy4SEDf9DFpcSTVBb2
+After sponsoring, you can send an email to the author. I will add you to the shareholder list and seriously respond to your questions.
+本项目诚邀您的赞助，ERC20 捐赠地址为：
+TRVfny686RZXBvVECy4SEDf9DFpcSTVBb2
+赞助后您可通过邮件联系作者，我会将您列入股东名单，并认真答复您的问题。
